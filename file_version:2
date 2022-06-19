@@ -40,7 +40,7 @@
 
 <button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lufthansa_Airbus_A320-211_D-AIQT_01.jpg/640px-Lufthansa_Airbus_A320-211_D-AIQT_01.jpg'">Airbus A320</button>
 
-<button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Airbus_A330neo_F-WTTN_39.jpg/640px-Airbus_A330neo_F-WTTN_39.jpg'">Airbus A330</button
+<button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Airbus_A330neo_F-WTTN_39.jpg/640px-Airbus_A330neo_F-WTTN_39.jpg'">Airbus A330</button>
 
 <button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Virgin_Atlantic_Airways_Airbus_A340-642_G-VNAP_at_JFK_Airport.jpg/640px-Virgin_Atlantic_Airways_Airbus_A340-642_G-VNAP_at_JFK_Airport.jpg'">Airbus A340</button>
 
