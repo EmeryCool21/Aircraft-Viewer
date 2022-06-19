@@ -1,16 +1,10 @@
-<!DOCTYPE html>
-<html>
 <body>
 
 <h1>Javascript Aircraft Collection Version 2</h1>
 
-<h3>Click The Button To See Any Aircraft!</h3>
+<h3>Click The Button To See Any Aircraft!</h3><img id="myImage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Boeing_full_logo.svg/640px-Boeing_full_logo.svg.png" style="width:300px">
 
-<img id="myImage" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Boeing_full_logo.svg/640px-Boeing_full_logo.svg.png" style="width:300px">
-
-<h2>Boeing</h2>
-
-<button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Boeing_707-321B_Pan_Am_Freer.jpg/640px-Boeing_707-321B_Pan_Am_Freer.jpg'">Boeing 707</button>
+<h2>Boeing</h2><button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Boeing_707-321B_Pan_Am_Freer.jpg/640px-Boeing_707-321B_Pan_Am_Freer.jpg'">Boeing 707</button>
 
 <button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/OH-BLG_Blue1_Boeing_717-2CM_-_cn_55059_taxiing%2C_25august2013_pic-005.JPG/640px-OH-BLG_Blue1_Boeing_717-2CM_-_cn_55059_taxiing%2C_25august2013_pic-005.JPG'">Boeing 717</button>
 
