@@ -13,3 +13,9 @@ Version 2.1 : Better UI Placement
 
 Version 3 : More BBoeing Aircraft
 
+<h2>How To Run</h2>
+
+==Step 1==
+
+Please refer to here:
+https://www.w3schools.com/html/html_editors.asp
