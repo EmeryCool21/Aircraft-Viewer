@@ -1,6 +1,6 @@
 <body>
 
-<h1>Javascript Aircraft Collection Version 3</h1>
+<h1>Javascript Aircraft Collection Version 3.1</h1>
 
 <h3>Click The Button To See Any Aircraft!</h3>
 
@@ -49,6 +49,22 @@
 <button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Boeing_Model_95_Dec_1928.jpg/300px-Boeing_Model_95_Dec_1928.jpg'">Boeing Model 95</button>
 
 <button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Boeing_81B_with_Wright_J-6-5_installed_%28side%29.jpg/300px-Boeing_81B_with_Wright_J-6-5_installed_%28side%29.jpg'">Boeing Model 81</button>
+
+<button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/b/b4/Model80.jpg'">Boeing Model 80</button>
+
+<button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Boeing_Model_64_on_wheels.jpg/300px-Boeing_Model_64_on_wheels.jpg'">Boeing Model 64</button>
+
+<button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/f/fd/Boeing_xp-8.jpg'">Boeing Model 8</button>
+
+<button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/7/72/Model40.jpg'">Boeing Model 40</button>
+
+<button onclick="document.getElementById('myImage').src='https://en.wikipedia.org/wiki/File:Boeing_Model_B1D_or_6D_LFQ_2.jpg'">Boeing Model 6D</button>
+
+<button onclick="document.getElementById('myImage').src='https://upload.wikimedia.org/wikipedia/commons/3/3b/Boeing_XP-7.jpg'">Boeing Model 7</button>
+
+<button onclick="document.getElementById('myImage').src='https://web.archive.org/web/20101120115122im_/http://www.boeing.com/history/boeing/images/modelb1_n.jpg'">Boeing B-1</button>
+
+<button onclick="document.getElementById('myImage').src='https://images.ehive.com/accounts/3015/objects/images/on1kbh_gut_m.jpg?revision=1'">Boeing Model 1</button>
 
 <h2>Airbus</h2>
 
