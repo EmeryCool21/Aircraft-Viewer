@@ -15,6 +15,8 @@ Version 3 : More Boeing Aircraft
 
 Version 3.1 : MORE Boeing Aircraft (Again)
 
+Version 3.2 : Adding More Airbus Aircraft (And sorting it)(Will sorting Boeing menu soon!)
+
 <h2>How To Run</h2>
 
 Please refer to here:
